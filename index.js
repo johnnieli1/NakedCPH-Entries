@@ -2,10 +2,10 @@ var cheerio = require('cheerio');
 var fs = require('fs');
 
 /* Modify lines below */
-var catchall = "catchall.com"; // For the accounts (if you win)
-var password = 'password'; // For the accounts (if you win)
-var retryDelay = 2000; // How many miliseconds before retrying if error
-var tasks = 1; //Change this to the amount of accounts you would like entered
+var catchall = "dontfuckwithme.club"; // For the accounts (if you win)
+var password = 'Johnnielilol1'; // For the accounts (if you win)
+var retryDelay = 10000; // How many miliseconds before retrying if error
+var tasks = 200; //Change this to the amount of accounts you would like entered
 /* End */
 
 var userAgent = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36';
